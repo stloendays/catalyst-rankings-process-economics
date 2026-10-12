@@ -1,0 +1,122 @@
+{
+ "humphreys_rows_in_set": 38,
+ "duplicate_rows": {
+  "T3-p13-r0": "T2-p10-r3"
+ },
+ "distinct_rows": 37,
+ "papers": 28,
+ "matched": 37,
+ "ambiguous": 21,
+ "scored": 16,
+ "fields": [
+  {
+   "field": "metal_wt",
+   "humphreys_values": 9,
+   "extracted": 9,
+   "coverage": 1.0,
+   "strict": 9,
+   "loose": 9,
+   "strict_frac": 1.0,
+   "loose_frac": 1.0,
+   "ambiguous_pairs_not_scored": 19,
+   "coverage_all_matched": "28/28",
+   "adjudicated_disagreements": 2,
+   "extraction_errors": 0,
+   "humphreys_errors": 2,
+   "adjudicated_correct_frac": 1.0
+  },
+  {
+   "field": "T",
+   "humphreys_values": 16,
+   "extracted": 16,
+   "coverage": 1.0,
+   "strict": 16,
+   "loose": 16,
+   "strict_frac": 1.0,
+   "loose_frac": 1.0,
+   "ambiguous_pairs_not_scored": 21,
+   "coverage_all_matched": "37/37",
+   "adjudicated_disagreements": 0,
+   "extraction_errors": 0,
+   "humphreys_errors": 0,
+   "adjudicated_correct_frac": 1.0
+  },
+  {
+   "field": "P",
+   "humphreys_values": 16,
+   "extracted": 16,
+   "coverage": 1.0,
+   "strict": 14,
+   "loose": 16,
+   "strict_frac": 0.875,
+   "loose_frac": 1.0,
+   "ambiguous_pairs_not_scored": 21,
+   "coverage_all_matched": "37/37",
+   "adjudicated_disagreements": 0,
+   "extraction_errors": 0,
+   "humphreys_errors": 0,
+   "adjudicated_correct_frac": 1.0
+  },
+  {
+   "field": "whsv",
+   "humphreys_values": 15,
+   "extracted": 12,
+   "coverage": 0.8,
+   "strict": 12,
+   "loose": 12,
+   "strict_frac": 1.0,
+   "loose_frac": 1.0,
+   "ambiguous_pairs_not_scored": 19,
+   "coverage_all_matched": "29/34",
+   "adjudicated_disagreements": 3,
+   "extraction_errors": 0,
+   "humphreys_errors": 3,
+   "adjudicated_correct_frac": 1.0
+  },
+  {
+   "field": "outlet",
+   "humphreys_values": 0,
+   "extracted": 0,
+   "coverage": null,
+   "strict": 0,
+   "loose": 0,
+   "strict_frac": null,
+   "loose_frac": null,
+   "ambiguous_pairs_not_scored": 1,
+   "coverage_all_matched": "1/1",
+   "adjudicated_disagreements": 0,
+   "extraction_errors": 0,
+   "humphreys_errors": 0,
+   "adjudicated_correct_frac": null
+  },
+  {
+   "field": "rate",
+   "humphreys_values": 16,
+   "extracted": 16,
+   "coverage": 1.0,
+   "strict": 13,
+   "loose": 14,
+   "strict_frac": 0.8125,
+   "loose_frac": 0.875,
+   "ambiguous_pairs_not_scored": 21,
+   "coverage_all_matched": "37/37",
+   "adjudicated_disagreements": 4,
+   "extraction_errors": 1,
+   "humphreys_errors": 1,
+   "adjudicated_correct_frac": 0.9375
+  }
+ ],
+ "pdf_check_sample": {
+  "checked": 40,
+  "correct": 35,
+  "fraction": 0.875,
+  "ci95_clopper_pearson": [
+   0.7319670826382796,
+   0.9581403738613833
+  ],
+  "verdicts": {
+   "correct": 35,
+   "wrong": 5
+  }
+ }
+}

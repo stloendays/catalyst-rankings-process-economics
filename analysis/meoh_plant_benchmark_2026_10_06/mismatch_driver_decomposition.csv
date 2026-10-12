@@ -1,0 +1,61 @@
+basis,group,feed H2 + CO2 (selectivity and purge losses),electricity: recycle compression,electricity: feed compression,catalyst replacement,capital: reactor (catalyst inventory),"capital: recycle-flow equipment (recycle compressor, preheaters, HX, flash)",capital: feed compressors,"capital: purge equipment (furnace, turbine)",capital: distillation + pump,total
+canonical,10.1016/j.cattod.2020.05.049 | 41 bar | H2/CO2 3 | 3.6 NL/g/h,10.91,1.253,0.2288,0,-3.213,1.872,0.3456,1.08,0.005762,12.49
+canonical,10.1016/j.fuel.2024.131111 | 40 bar | H2/CO2 5 | 12 NL/g/h,2.708,-0.2746,0.02171,0,-0.4719,-0.31,0.03108,-0.1761,0.009687,1.538
+canonical,10.1021/acs.iecr.7b01464 | 30 bar | H2/CO2 3.03 | 0.873 NL/g/h,12.27,1.925,0.1992,0,-6.412,2.4,0.3209,1.37,0.007001,12.08
+canonical,10.1021/acscatal.5c05984 | 100 bar | H2/CO2 4 | 10 NL/g/h,18.18,-0.2221,0.4781,0,-1.944,-0.884,0.5341,-0.5632,0.05201,15.63
+canonical,10.1021/acscatal.9b03305 | 50 bar | H2/CO2 4 | 24 NL/g/h,5.465,0.2705,0.2833,0,-0.2514,0.2848,0.3962,0.1591,0.02297,6.63
+canonical,10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,201.3,8.721,6.451,0,-89.11,20.91,7.365,12.41,0.118,168.1
+canonical,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,499.5,72.98,7.83,0,-73.14,40.42,11.24,21.68,0.3841,580.9
+canonical,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 4000 h-1,82.12,11.97,1.13,0,-4.363,9.994,1.773,5.471,0.04989,108.1
+canonical,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,67.32,0.6137,3.181,0,-38.03,7.32,2.914,4.627,0.05492,48
+canonical,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 4000 h-1,28.7,0.3327,1.377,0,-5.848,4.459,1.28,2.862,0.01207,33.17
+canonical,10.1039/c2cy20604h | 4 bar | H2/CO2 3.8 | 10.6 NL/g/h,605.7,806.9,4.065,0,-76.6,54.06,7.069,18.7,0.4918,1420
+canonical,10.1039/c2cy20604h | 4 bar | H2/CO2 3.8 | 4000 h-1,233,282.2,2.117,0,-14.08,21.88,3.863,7.662,0.362,537
+canonical,10.1039/c6ra28305e | 30 bar | H2/CO2 3 | 3600 h-1,11.37,1.744,0.1987,0,-3.431,1.315,0.3078,0.714,0.008479,12.22
+canonical,10.1126/sciadv.aaz2060 | 50 bar | H2/CO2 3.04 | 9 NL/g/h,83.63,6.385,2.845,0,-3.8,8.444,3.988,4.807,0.1607,106.5
+canonical,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,1.278,0.05489,0.01854,0,-1.301,0.06388,0.02758,0.03571,0.002054,0.1798
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1016/j.cattod.2020.05.049 | 41 bar | H2/CO2 3 | 3.6 NL/g/h,10.91,1.253,0.2288,-2.527,-3.213,1.872,0.3456,1.08,0.005762,9.959
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1016/j.fuel.2024.131111 | 40 bar | H2/CO2 5 | 12 NL/g/h,2.708,-0.2746,0.02171,-0.2156,-0.4719,-0.31,0.03108,-0.1761,0.009687,1.323
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1021/acs.iecr.7b01464 | 30 bar | H2/CO2 3.03 | 0.873 NL/g/h,12.27,1.925,0.1992,-4.514,-6.412,2.4,0.3209,1.37,0.007001,7.57
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1021/acscatal.5c05984 | 100 bar | H2/CO2 4 | 10 NL/g/h,18.18,-0.2221,0.4781,-0.5925,-1.944,-0.884,0.5341,-0.5632,0.05201,15.03
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1021/acscatal.9b03305 | 50 bar | H2/CO2 4 | 24 NL/g/h,5.465,0.2705,0.2833,-0.1108,-0.2514,0.2848,0.3962,0.1591,0.02297,6.519
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,201.3,8.721,6.451,-136.2,-89.11,20.91,7.365,12.41,0.118,31.91
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,499.5,72.98,7.83,-116.5,-73.14,40.42,11.24,21.68,0.3841,464.4
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 4000 h-1,82.12,11.97,1.13,-4.225,-4.363,9.994,1.773,5.471,0.04989,103.9
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,67.32,0.6137,3.181,-37.94,-38.03,7.32,2.914,4.627,0.05492,10.06
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 4000 h-1,28.7,0.3327,1.377,-5.168,-5.848,4.459,1.28,2.862,0.01207,28
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1039/c2cy20604h | 4 bar | H2/CO2 3.8 | 10.6 NL/g/h,605.7,806.9,4.065,-155.5,-76.6,54.06,7.069,18.7,0.4918,1265
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1039/c2cy20604h | 4 bar | H2/CO2 3.8 | 4000 h-1,233,282.2,2.117,-22.64,-14.08,21.88,3.863,7.662,0.362,514.4
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1039/c6ra28305e | 30 bar | H2/CO2 3 | 3600 h-1,11.37,1.744,0.1987,-3.218,-3.431,1.315,0.3078,0.714,0.008479,9.005
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1126/sciadv.aaz2060 | 50 bar | H2/CO2 3.04 | 9 NL/g/h,83.63,6.385,2.845,-1.709,-3.8,8.444,3.988,4.807,0.1607,104.8
+"with catalyst replacement 18.1 EUR/kg, 3 y",10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,1.278,0.05489,0.01854,-0.3884,-1.301,0.06388,0.02758,0.03571,0.002054,-0.2086
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1016/j.cattod.2020.05.049 | 41 bar | H2/CO2 3 | 3.6 NL/g/h,10.91,8.64,0.2288,-2.527,-3.213,3.843,0.3456,1.08,0.005762,19.32
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1016/j.fuel.2024.131111 | 40 bar | H2/CO2 5 | 12 NL/g/h,2.708,-1.896,0.02171,-0.2156,-0.4719,-0.637,0.03108,-0.1761,0.009687,-0.6253
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1021/acs.iecr.7b01464 | 30 bar | H2/CO2 3.03 | 0.873 NL/g/h,12.27,13.43,0.1992,-4.514,-6.412,5.067,0.3209,1.37,0.007001,21.74
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1021/acscatal.5c05984 | 100 bar | H2/CO2 4 | 10 NL/g/h,18.18,-1.505,0.4781,-0.5925,-1.944,-1.783,0.5341,-0.5632,0.05201,12.85
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1021/acscatal.9b03305 | 50 bar | H2/CO2 4 | 24 NL/g/h,5.465,1.855,0.2833,-0.1108,-0.2514,0.5692,0.3962,0.1591,0.02297,8.389
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,201.3,59.11,6.451,-136.2,-89.11,40.7,7.365,12.41,0.118,102.1
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,499.5,509.2,7.83,-116.5,-73.14,84.38,11.24,21.68,0.3841,944.5
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 4000 h-1,82.12,83.53,1.13,-4.225,-4.363,20.84,1.773,5.471,0.04989,186.3
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,67.32,4.124,3.181,-37.94,-38.03,13.9,2.914,4.627,0.05492,20.16
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 4000 h-1,28.7,2.236,1.377,-5.168,-5.848,8.541,1.28,2.862,0.01207,33.99
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1039/c2cy20604h | 4 bar | H2/CO2 3.8 | 10.6 NL/g/h,605.7,6379,4.065,-155.5,-76.6,150.5,7.069,18.7,0.4918,6933
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1039/c2cy20604h | 4 bar | H2/CO2 3.8 | 4000 h-1,233,2231,2.117,-22.64,-14.08,60.62,3.863,7.662,0.362,2502
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1039/c6ra28305e | 30 bar | H2/CO2 3 | 3600 h-1,11.37,12.17,0.1987,-3.218,-3.431,2.738,0.3078,0.714,0.008479,20.85
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1126/sciadv.aaz2060 | 50 bar | H2/CO2 3.04 | 9 NL/g/h,83.63,43.8,2.845,-1.709,-3.8,16.97,3.988,4.807,0.1607,150.7
+industrial loop: catalyst 3 y + loop dP 3.75 bar + recycle x2.68,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,1.278,0.3789,0.01854,-0.3884,-1.301,0.1298,0.02758,0.03571,0.002054,0.1813
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1016/j.cattod.2020.05.049 | 41 bar | H2/CO2 3 | 3.6 NL/g/h,10.91,36.32,0.2288,-39.89,-3.213,8.862,0.3456,1.08,0.005762,14.65
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1016/j.fuel.2024.131111 | 40 bar | H2/CO2 5 | 12 NL/g/h,2.708,-7.971,0.02171,-3.404,-0.4719,-1.468,0.03108,-0.1761,0.009687,-10.72
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1021/acs.iecr.7b01464 | 30 bar | H2/CO2 3.03 | 0.873 NL/g/h,12.27,56.61,0.1992,-71.26,-6.412,11.8,0.3209,1.37,0.007001,4.909
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1021/acscatal.5c05984 | 100 bar | H2/CO2 4 | 10 NL/g/h,18.18,-6.305,0.4781,-9.353,-1.944,-4.1,0.5341,-0.5632,0.05201,-3.024
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1021/acscatal.9b03305 | 50 bar | H2/CO2 4 | 24 NL/g/h,5.465,7.791,0.2833,-1.75,-0.2514,1.299,0.3962,0.1591,0.02297,13.42
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,201.3,247.6,6.451,-2150,-89.11,92.14,7.365,12.41,0.118,-1672
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,499.5,2146,7.83,-1840,-73.14,195.3,11.24,21.68,0.3841,969
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 4000 h-1,82.12,352,1.13,-66.69,-4.363,48.24,1.773,5.471,0.04989,419.8
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,67.32,17.25,3.181,-598.9,-38.03,31.26,2.914,4.627,0.05492,-510.3
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 4000 h-1,28.7,9.352,1.377,-81.58,-5.848,19.28,1.28,2.862,0.01207,-24.57
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1039/c2cy20604h | 4 bar | H2/CO2 3.8 | 10.6 NL/g/h,605.7,2.38e+04,4.065,-2454,-76.6,352.2,7.069,18.7,0.4918,2.226e+04
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1039/c2cy20604h | 4 bar | H2/CO2 3.8 | 4000 h-1,233,8323,2.117,-357.4,-14.08,141.8,3.863,7.662,0.362,8341
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1039/c6ra28305e | 30 bar | H2/CO2 3 | 3600 h-1,11.37,51.27,0.1987,-50.8,-3.431,6.334,0.3078,0.714,0.008479,15.97
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1126/sciadv.aaz2060 | 50 bar | H2/CO2 3.04 | 9 NL/g/h,83.63,183.9,2.845,-26.98,-3.8,38.82,3.988,4.807,0.1607,287.4
+primary-source weights: catalyst 95.24 EUR/kg 1 y + loop dP 4.2 bar + recycle costs x10 (Nyari spread),10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,1.278,1.593,0.01854,-6.131,-1.301,0.2979,0.02758,0.03571,0.002054,-4.179

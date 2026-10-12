@@ -1,0 +1,71 @@
+variant,group,baseline_winner,variant_winner,baseline_mismatch,variant_mismatch
+catalyst_repl_18.1EURkg_3y,10.1021/acs.iecr.7b01464 | 30 bar | H2/CO2 3.03 | 0.873 NL/g/h,"CZA400 [Text/Fig 6, CZA400, 220 °C, internal cooling]","CZA400 [Table 1, CZA400, internal cooling]",True,True
+catalyst_repl_18.1EURkg_3y,10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 10 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 10 MPa]",True,True
+catalyst_repl_18.1EURkg_3y,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 533 K, 3 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 553 K, 3 MPa]",True,True
+catalyst_repl_18.1EURkg_3y,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 36 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 36 MPa]",True,True
+catalyst_repl_18.1EURkg_3y,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,"CuZnAl [SI Table S7 row CuZnAl, 325 °C]","InNi3C0.5/Fe3O4 [Text/Table S7, InNi3C0.5/Fe3O4, 325C, 4.0 MPa, H2/CO2 8:1, GHSV 30000]",True,False
+catalyst_repl_18.1EURkg_5y,10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 10 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 533 K, 10 MPa]",True,True
+catalyst_repl_18.1EURkg_5y,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 36 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 36 MPa]",True,True
+catalyst_repl_18.1EURkg_5y,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,"CuZnAl [SI Table S7 row CuZnAl, 325 °C]","InNi3C0.5/Fe3O4 [Text/Table S7, InNi3C0.5/Fe3O4, 325C, 4.0 MPa, H2/CO2 8:1, GHSV 30000]",True,False
+h2_price_half,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 4000 h-1,"Cu–Ba/Al2O3 [SI Table 3, 553 K, 3 MPa]","Cu–Ba/Al2O3 [SI Table 3, 533 K, 3 MPa]",True,True
+h2_price_half,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 36 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 36 MPa]",True,True
+h2_price_half,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,"CuZnAl [SI Table S7 row CuZnAl, 325 °C]","InNi3C0.5/Fe3O4 [Text/Table S7, InNi3C0.5/Fe3O4, 325C, 4.0 MPa, H2/CO2 8:1, GHSV 30000]",True,False
+catalyst_repl_95.24EURkg_1y,10.1016/j.cattod.2020.05.049 | 41 bar | H2/CO2 3 | 3.6 NL/g/h,Pd-Cu/Ti0.8Zr0.2O2 [Table 1 row 5],Pd-Cu/Ti0.1Zr0.9O2 [Table 1 row 9],True,False
+catalyst_repl_95.24EURkg_1y,10.1016/j.fuel.2024.131111 | 40 bar | H2/CO2 5 | 12 NL/g/h,"5InNi3C0.5/Fe3O4-400/450 [Fig. 2B, carburization 450 °C]","5InNi3C0.5/Fe3O4-450/425 [Fig. 2A, calcination 450 °C]",True,False
+catalyst_repl_95.24EURkg_1y,10.1021/acs.iecr.7b01464 | 30 bar | H2/CO2 3.03 | 0.873 NL/g/h,"CZA400 [Text/Fig 6, CZA400, 220 °C, internal cooling]","CZA400 [Text/Fig 6, CZA400, 260 °C, internal cooling]",True,False
+catalyst_repl_95.24EURkg_1y,10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 10 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 10 MPa]",True,True
+catalyst_repl_95.24EURkg_1y,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 533 K, 3 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 553 K, 3 MPa]",True,True
+catalyst_repl_95.24EURkg_1y,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 4000 h-1,"Cu–Ba/Al2O3 [SI Table 3, 553 K, 3 MPa]","Cu–Ba/Al2O3 [SI Table 3, 533 K, 3 MPa]",True,True
+catalyst_repl_95.24EURkg_1y,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 36 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 473 K, 36 MPa]",True,False
+catalyst_repl_95.24EURkg_1y,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 4000 h-1,"Cu–Ba/Al2O3 [SI Table 3, 553 K, 36 MPa]","Cu–Ba/Al2O3 [SI Table 3, 503 K, 36 MPa]",True,False
+catalyst_repl_95.24EURkg_1y,10.1039/c2cy20604h | 4 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 503 K, 0.40 MPa]","Cu–Ba/Al2O3 [Fig 8, Cu-Ba/Al2O3, 473 K, 0.40 MPa]",True,False
+catalyst_repl_95.24EURkg_1y,10.1039/c6ra28305e | 30 bar | H2/CO2 3 | 3600 h-1,"CZ-350 [Table 2, CZ-350]","CZ-450 [Table 2, CZ-450]",True,False
+catalyst_repl_95.24EURkg_1y,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,"CuZnAl [SI Table S7 row CuZnAl, 325 °C]","InNi3C0.5/Fe3O4 [Text/Table S7, InNi3C0.5/Fe3O4, 325C, 4.0 MPa, H2/CO2 8:1, GHSV 30000]",True,False
+catalyst_repl_95.24EURkg_4y,10.1021/acs.iecr.7b01464 | 30 bar | H2/CO2 3.03 | 0.873 NL/g/h,"CZA400 [Text/Fig 6, CZA400, 220 °C, internal cooling]","CZA400 [Table 1, CZA400, internal cooling]",True,True
+catalyst_repl_95.24EURkg_4y,10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 10 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 10 MPa]",True,True
+catalyst_repl_95.24EURkg_4y,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 533 K, 3 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 553 K, 3 MPa]",True,True
+catalyst_repl_95.24EURkg_4y,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 4000 h-1,"Cu–Ba/Al2O3 [SI Table 3, 553 K, 3 MPa]","Cu–Ba/Al2O3 [SI Table 3, 533 K, 3 MPa]",True,True
+catalyst_repl_95.24EURkg_4y,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 36 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 36 MPa]",True,True
+catalyst_repl_95.24EURkg_4y,10.1039/c6ra28305e | 30 bar | H2/CO2 3 | 3600 h-1,"CZ-350 [Table 2, CZ-350]","CZ-450 [Table 2, CZ-450]",True,False
+catalyst_repl_95.24EURkg_4y,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,"CuZnAl [SI Table S7 row CuZnAl, 325 °C]","InNi3C0.5/Fe3O4 [Text/Table S7, InNi3C0.5/Fe3O4, 325C, 4.0 MPa, H2/CO2 8:1, GHSV 30000]",True,False
+catalyst_repl_95.24EURkg_6y,10.1021/acs.iecr.7b01464 | 30 bar | H2/CO2 3.03 | 0.873 NL/g/h,"CZA400 [Text/Fig 6, CZA400, 220 °C, internal cooling]","CZA400 [Table 1, CZA400, internal cooling]",True,True
+catalyst_repl_95.24EURkg_6y,10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 10 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 10 MPa]",True,True
+catalyst_repl_95.24EURkg_6y,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 533 K, 3 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 553 K, 3 MPa]",True,True
+catalyst_repl_95.24EURkg_6y,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 4000 h-1,"Cu–Ba/Al2O3 [SI Table 3, 553 K, 3 MPa]","Cu–Ba/Al2O3 [SI Table 3, 533 K, 3 MPa]",True,True
+catalyst_repl_95.24EURkg_6y,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 36 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 36 MPa]",True,True
+catalyst_repl_95.24EURkg_6y,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,"CuZnAl [SI Table S7 row CuZnAl, 325 °C]","InNi3C0.5/Fe3O4 [Text/Table S7, InNi3C0.5/Fe3O4, 325C, 4.0 MPa, H2/CO2 8:1, GHSV 30000]",True,False
+recycle_weight_nyari,10.1002/cctc.202000974 | 20 bar | H2/CO2 3 | 3.6 NL/g/h,"physical mixture of Pd/ZnO and TiO2 [Text, physical mixture Pd/ZnO and TiO2, 250°C]","PdZn/ZnTiO3 [SI Table S2, PdZn/ZnTiO3, 250 °C]",False,True
+recycle_weight_nyari,10.1016/j.fuel.2023.127927 | 20 bar | H2/CO2 3 | 2.4 NL/g/h,"0.5Ca-PZC [Table 1, 0.5Ca-PZC]","1.0Ca-PZC [Table 1, 1.0Ca-PZC]",False,True
+recycle_weight_nyari,10.1016/j.fuel.2024.131111 | 40 bar | H2/CO2 5 | 12 NL/g/h,"5InNi3C0.5/Fe3O4-400/450 [Fig. 2B, carburization 450 °C]","5InNi3C0.5/Fe3O4-450/425 [Fig. 2A, calcination 450 °C]",True,False
+recycle_weight_nyari,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 533 K, 3 MPa]","Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 3 MPa]",True,True
+combined_primary_cat1y_dp4.2_recycle10,10.1016/j.fuel.2024.131111 | 40 bar | H2/CO2 5 | 12 NL/g/h,"5InNi3C0.5/Fe3O4-400/450 [Fig. 2B, carburization 450 °C]","5InNi3C0.5/Fe3O4-450/425 [Fig. 2A, calcination 450 °C]",True,False
+combined_primary_cat1y_dp4.2_recycle10,10.1021/acs.iecr.7b01464 | 30 bar | H2/CO2 3.03 | 0.873 NL/g/h,"CZA400 [Text/Fig 6, CZA400, 220 °C, internal cooling]","CZA400 [Table 1, CZA400, internal cooling]",True,True
+combined_primary_cat1y_dp4.2_recycle10,10.1021/acscatal.5c05984 | 100 bar | H2/CO2 4 | 10 NL/g/h,1 wt % Re/TiO2 [Table 4 row 3],5 wt % Re/TiO2 [Table 4 row 11],True,False
+combined_primary_cat1y_dp4.2_recycle10,10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 10 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 10 MPa]",True,True
+combined_primary_cat1y_dp4.2_recycle10,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 533 K, 3 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 553 K, 3 MPa]",True,True
+combined_primary_cat1y_dp4.2_recycle10,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 4000 h-1,"Cu–Ba/Al2O3 [SI Table 3, 553 K, 3 MPa]","Cu–Ba/Al2O3 [SI Table 3, 533 K, 3 MPa]",True,True
+combined_primary_cat1y_dp4.2_recycle10,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 36 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 473 K, 36 MPa]",True,False
+combined_primary_cat1y_dp4.2_recycle10,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 4000 h-1,"Cu–Ba/Al2O3 [SI Table 3, 553 K, 36 MPa]","Cu–Ba/Al2O3 [SI Table 3, 503 K, 36 MPa]",True,False
+combined_primary_cat1y_dp4.2_recycle10,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,"CuZnAl [SI Table S7 row CuZnAl, 325 °C]","InNi3C0.5/Fe3O4 [Text/Table S7, InNi3C0.5/Fe3O4, 325C, 4.0 MPa, H2/CO2 8:1, GHSV 30000]",True,False
+combined_primary_cat4y_dp4.2_recycle10,10.1016/j.fuel.2024.131111 | 40 bar | H2/CO2 5 | 12 NL/g/h,"5InNi3C0.5/Fe3O4-400/450 [Fig. 2B, carburization 450 °C]","5InNi3C0.5/Fe3O4-450/425 [Fig. 2A, calcination 450 °C]",True,False
+combined_primary_cat4y_dp4.2_recycle10,10.1021/acscatal.5c05984 | 100 bar | H2/CO2 4 | 10 NL/g/h,1 wt % Re/TiO2 [Table 4 row 3],1 wt % Re/TiO2 [Table 4 row 4],True,True
+combined_primary_cat4y_dp4.2_recycle10,10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 10 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 10 MPa]",True,True
+combined_primary_cat4y_dp4.2_recycle10,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 533 K, 3 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 553 K, 3 MPa]",True,True
+combined_primary_cat4y_dp4.2_recycle10,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 4000 h-1,"Cu–Ba/Al2O3 [SI Table 3, 553 K, 3 MPa]","Cu–Ba/Al2O3 [SI Table 3, 533 K, 3 MPa]",True,True
+combined_primary_cat4y_dp4.2_recycle10,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 36 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 36 MPa]",True,True
+combined_cat3y_dp3.75,10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 10 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 10 MPa]",True,True
+combined_cat3y_dp3.75,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 533 K, 3 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 553 K, 3 MPa]",True,True
+combined_cat3y_dp3.75,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 36 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 36 MPa]",True,True
+combined_cat3y_dp3.75,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,"CuZnAl [SI Table S7 row CuZnAl, 325 °C]","InNi3C0.5/Fe3O4 [Text/Table S7, InNi3C0.5/Fe3O4, 325C, 4.0 MPa, H2/CO2 8:1, GHSV 30000]",True,False
+combined_cat3y_dp3.75_recycle2.68,10.1016/j.fuel.2024.131111 | 40 bar | H2/CO2 5 | 12 NL/g/h,"5InNi3C0.5/Fe3O4-400/450 [Fig. 2B, carburization 450 °C]","5InNi3C0.5/Fe3O4-450/425 [Fig. 2A, calcination 450 °C]",True,False
+combined_cat3y_dp3.75_recycle2.68,10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 10 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 533 K, 10 MPa]",True,True
+combined_cat3y_dp3.75_recycle2.68,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 36 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 36 MPa]",True,True
+combined_cat3y_dp3.75_h2half,10.1016/j.fuel.2024.131111 | 40 bar | H2/CO2 5 | 12 NL/g/h,"5InNi3C0.5/Fe3O4-400/450 [Fig. 2B, carburization 450 °C]","5InNi3C0.5/Fe3O4-450/425 [Fig. 2A, calcination 450 °C]",True,False
+combined_cat3y_dp3.75_h2half,10.1021/acs.iecr.7b01464 | 30 bar | H2/CO2 3.03 | 0.873 NL/g/h,"CZA400 [Text/Fig 6, CZA400, 220 °C, internal cooling]","CZA400 [Table 1, CZA400, internal cooling]",True,True
+combined_cat3y_dp3.75_h2half,10.1039/c2cy20604h | 100 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 10 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 10 MPa]",True,True
+combined_cat3y_dp3.75_h2half,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 533 K, 3 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 553 K, 3 MPa]",True,True
+combined_cat3y_dp3.75_h2half,10.1039/c2cy20604h | 30 bar | H2/CO2 3.8 | 4000 h-1,"Cu–Ba/Al2O3 [SI Table 3, 553 K, 3 MPa]","Cu–Ba/Al2O3 [SI Table 3, 533 K, 3 MPa]",True,True
+combined_cat3y_dp3.75_h2half,10.1039/c2cy20604h | 360 bar | H2/CO2 3.8 | 10.6 NL/g/h,"Cu–K/Al2O3 [Fig 7, Cu-K/Al2O3, 553 K, 36 MPa]","Cu/Al2O3 [Fig 5/Fig 6, Cu/Al2O3, 503 K, 36 MPa]",True,True
+combined_cat3y_dp3.75_h2half,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,"CuZnAl [SI Table S7 row CuZnAl, 325 °C]","InNi3C0.5/Fe3O4 [Text/Table S7, InNi3C0.5/Fe3O4, 325C, 4.0 MPa, H2/CO2 8:1, GHSV 30000]",True,False
+pf_aligned_capital,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,"CuZnAl [SI Table S7 row CuZnAl, 325 °C]","InNi3C0.5/Fe3O4 [Text/Table S7, InNi3C0.5/Fe3O4, 325C, 4.0 MPa, H2/CO2 8:1, GHSV 30000]",True,False
+pf_aligned_recycle_compression_capital,10.1126/sciadv.abi6012 | 40 bar | H2/CO2 8 | 30 NL/g/h,"CuZnAl [SI Table S7 row CuZnAl, 325 °C]","InNi3C0.5/Fe3O4 [Text/Table S7, InNi3C0.5/Fe3O4, 325C, 4.0 MPa, H2/CO2 8:1, GHSV 30000]",True,False

@@ -1,0 +1,233 @@
+{
+ "draws": 5000,
+ "base_reproduced": {
+  "P_Fe_cheaper": 1.0,
+  "min_gap_USD_t": 2.382378054868523
+ },
+ "ranges": {
+  "u": [
+   11.0,
+   50.0
+  ],
+  "r": [
+   0.9,
+   0.9555
+  ],
+  "bed_density_kg_m3": [
+   430.0,
+   550.0
+  ],
+  "A_bed_Ru_wt_pct": [
+   5.0,
+   10.0
+  ],
+  "measured_Ru_catalysts": 54
+ },
+ "A": {
+  "P_Fe_cheaper": 0.419,
+  "gap_quantiles_USD_t": {
+   "p05": -0.41256232753545613,
+   "p50": -0.052607023858255,
+   "p95": 0.6324214695115439
+  },
+  "regret_quantiles": {
+   "p05": -0.024848053658338105,
+   "p50": -0.0035241817555565587,
+   "p95": 0.03238705645437808
+  }
+ },
+ "A_bed": {
+  "P_Fe_cheaper": 0.7192,
+  "gap_quantiles_USD_t": {
+   "p05": -0.32633884667343194,
+   "p50": 0.20831402944192057,
+   "p95": 0.9818390414121434
+  },
+  "regret_quantiles": {
+   "p05": -0.020003880915173806,
+   "p50": 0.013497776971010992,
+   "p95": 0.046750114513917106
+  }
+ },
+ "B": {
+  "P_Fe_cheaper": 0.947,
+  "gap_quantiles_USD_t": {
+   "p05": -0.04661785761306238,
+   "p50": 4.97515807222581,
+   "p95": 11.959172526539875
+  },
+  "regret_quantiles": {
+   "p05": -0.0038515050999338614,
+   "p50": 0.3045040399106478,
+   "p95": 0.5841394011040686
+  }
+ },
+ "B0": {
+  "P_Fe_cheaper": 0.99,
+  "gap_quantiles_USD_t": {
+   "p05": 1.3091911325904242,
+   "p50": 7.774046410924591,
+   "p95": 15.765720814541778
+  },
+  "regret_quantiles": {
+   "p05": 0.07834699588236829,
+   "p50": 0.4657073834790136,
+   "p95": 0.7978373280412597
+  }
+ },
+ "A_where_Ru_wins": {
+  "P_Ru_wins": 0.581,
+  "u_r_tercile_grid": {
+   "u_tercile1_r_tercile1": {
+    "n": 554,
+    "P_Ru_wins": 0.15162454873646208
+   },
+   "u_tercile1_r_tercile2": {
+    "n": 567,
+    "P_Ru_wins": 0.30511463844797176
+   },
+   "u_tercile1_r_tercile3": {
+    "n": 546,
+    "P_Ru_wins": 0.4816849816849817
+   },
+   "u_tercile2_r_tercile1": {
+    "n": 567,
+    "P_Ru_wins": 0.43738977072310403
+   },
+   "u_tercile2_r_tercile2": {
+    "n": 546,
+    "P_Ru_wins": 0.5860805860805861
+   },
+   "u_tercile2_r_tercile3": {
+    "n": 553,
+    "P_Ru_wins": 0.7631103074141049
+   },
+   "u_tercile3_r_tercile1": {
+    "n": 546,
+    "P_Ru_wins": 0.7619047619047619
+   },
+   "u_tercile3_r_tercile2": {
+    "n": 553,
+    "P_Ru_wins": 0.8119349005424955
+   },
+   "u_tercile3_r_tercile3": {
+    "n": 568,
+    "P_Ru_wins": 0.9330985915492958
+   }
+  },
+  "P_Ru_wins_given_u_lowest_tercile": 0.3119376124775045,
+  "P_Ru_wins_given_u_top_tercile": 0.8368326334733054,
+  "P_Ru_wins_given_r_lowest_tercile": 0.4487102579484103,
+  "P_Ru_wins_given_r_top_tercile": 0.7288542291541692,
+  "share_of_Ru_wins_with_u_and_r_in_top_tercile": 0.18244406196213425,
+  "P_Ru_wins_given_u_and_r_top_tercile": 0.9330985915492958,
+  "P_Ru_wins_given_u_or_r_bottom_tercile": 0.42589928057553955,
+  "median_u_r_when_Ru_wins": [
+   29.690984860032206,
+   0.9330195348584633
+  ],
+  "median_u_r_when_Fe_wins": [
+   17.282765934586394,
+   0.9220379978066888
+  ],
+  "P_Ru_wins_by_p_eff_quintile": [
+   0.997,
+   0.867,
+   0.645,
+   0.353,
+   0.043
+  ],
+  "u_terciles": [
+   18.203197756241238,
+   30.40515089941032
+  ],
+  "r_terciles": [
+   0.9191507943835775,
+   0.9372508217697257
+  ]
+ },
+ "A_bed_where_Ru_wins": {
+  "P_Ru_wins": 0.2808,
+  "u_r_tercile_grid": {
+   "u_tercile1_r_tercile1": {
+    "n": 554,
+    "P_Ru_wins": 0.0
+   },
+   "u_tercile1_r_tercile2": {
+    "n": 567,
+    "P_Ru_wins": 0.0
+   },
+   "u_tercile1_r_tercile3": {
+    "n": 546,
+    "P_Ru_wins": 0.005494505494505495
+   },
+   "u_tercile2_r_tercile1": {
+    "n": 567,
+    "P_Ru_wins": 0.06525573192239859
+   },
+   "u_tercile2_r_tercile2": {
+    "n": 546,
+    "P_Ru_wins": 0.13186813186813187
+   },
+   "u_tercile2_r_tercile3": {
+    "n": 553,
+    "P_Ru_wins": 0.20614828209764918
+   },
+   "u_tercile3_r_tercile1": {
+    "n": 546,
+    "P_Ru_wins": 0.6135531135531136
+   },
+   "u_tercile3_r_tercile2": {
+    "n": 553,
+    "P_Ru_wins": 0.7034358047016275
+   },
+   "u_tercile3_r_tercile3": {
+    "n": 568,
+    "P_Ru_wins": 0.7992957746478874
+   }
+  },
+  "P_Ru_wins_given_u_lowest_tercile": 0.001799640071985603,
+  "P_Ru_wins_given_u_top_tercile": 0.7066586682663467,
+  "P_Ru_wins_given_r_lowest_tercile": 0.22315536892621476,
+  "P_Ru_wins_given_r_top_tercile": 0.34253149370125974,
+  "share_of_Ru_wins_with_u_and_r_in_top_tercile": 0.32336182336182334,
+  "P_Ru_wins_given_u_and_r_top_tercile": 0.7992957746478874,
+  "P_Ru_wins_given_u_or_r_bottom_tercile": 0.13489208633093525,
+  "median_u_r_when_Ru_wins": [
+   39.226079616708574,
+   0.932563164373496
+  ],
+  "median_u_r_when_Fe_wins": [
+   18.971193130274088,
+   0.9267058968906685
+  ],
+  "P_Ru_wins_by_p_eff_quintile": [
+   0.816,
+   0.405,
+   0.151,
+   0.032,
+   0.0
+  ],
+  "u_terciles": [
+   18.203197756241238,
+   30.40515089941032
+  ],
+  "r_terciles": [
+   0.9191507943835775,
+   0.9372508217697257
+  ],
+  "P_Ru_wins_given_Ru_content_lt_7.5_wt_pct": 0.2203811101905551,
+  "P_Ru_wins_given_Ru_content_ge_7.5_wt_pct": 0.337200309358082
+ },
+ "p_eff_quantiles_USD_kg": {
+  "p05": 56.33668730382637,
+  "p50": 161.36632624798204,
+  "p95": 449.8305715034306
+ },
+ "B_Ru_winning_catalysts": [
+  "Ru/AC-G",
+  "Ru/Ba\u2013Ca(NH2)2",
+  "Ru/Ca(NH2)2",
+  "Ru/Cs/Ba/CCHT"
+ ]
+}

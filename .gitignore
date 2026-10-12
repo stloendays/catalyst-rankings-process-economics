@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+.vscode/
+.idea/
+
+# Office lock files
+~$*
+
+# Regenerable harness cache.
+# The precomputed response-surface .npz files are derived artefacts, excluded by
+# policy and recorded with their SHA-256 in the bundle manifest's excluded_files.
+# See docs/DATA_AND_CODE_AVAILABILITY.md.
+cache/
+*.npz
+agent/extraction/pdf/
+agent/extraction/text/
+agent/extraction/si/
+agent/extraction/text_si/
+agent/extraction/out/*.log
+agent/au/pdf/
+agent/au/text/
+agent/nh3_supported/pdf/
+agent/nh3_supported/text/
+agent/nh3_field/pdf/
+agent/nh3_field/text/
+agent/nh3_field/si/
+agent/nh3_field/text_si/
+agent/nh3_field/out/*.log
+agent/nh3_field/*.log
+analysis/nh3_field_2026_10_06/run.log
+agent/selfcheck_report_ci.json
