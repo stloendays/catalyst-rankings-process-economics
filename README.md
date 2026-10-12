@@ -47,6 +47,8 @@ CO₂ hydrogenation to methanol (Re/TiO₂ case and published comparisons) and A
 | Ammonia: measured catalysts of a review | `analysis/nh3_supported_2026_10_06/` |
 | Ammonia: bimetallic surfaces | `analysis/nh3_alloy_extension_2026_10_05/` |
 | Ru at its actual catalyst cost, Monte Carlo | `figures/composite/fig2/fig2_ru_actual_cost.py`, `analysis/nh3_mc_ru_actual_2026_10_06/`, `analysis/nh3_actual_ru_params_2026_10_07/` |
+| Ru inventory financing and net-recovery boundary (lifecycle cash flow) | `analysis/nh3_ru_net_recovery_boundary_2026_10_12/` |
+| Methanol: one paper ranked per gram of Re | `analysis/verify_2026_10_12_metal_basis/` |
 | Corrections to curated reference data (Supplementary Table 6) | `analysis/verify_2026_10_08/errata_adjudication.py` |
 | Extraction accuracy; 100-value sample checked against the papers | `agent/extraction/eval/`, `analysis/verify_2026_10_08/gold_standard_*`, `analysis/verify_2026_10_12_gold/` |
 
